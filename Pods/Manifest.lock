@@ -1,0 +1,29 @@
+PODS:
+  - GMOpenSSL (3.0.5)
+  - iProov (11.0.3)
+  - Jumio/IProov (4.10.0):
+    - iProov (= 11.0.3)
+    - Jumio/Liveness (= 4.10.0)
+  - Jumio/Jumio (4.10.0)
+  - Jumio/Liveness (4.10.0)
+
+DEPENDENCIES:
+  - GMOpenSSL (= 3.0.5)
+  - Jumio/IProov (~> 4.10.0)
+  - Jumio/Jumio (~> 4.10.0)
+  - Jumio/Liveness (~> 4.10.0)
+
+SPEC REPOS:
+  trunk:
+    - GMOpenSSL
+    - iProov
+    - Jumio
+
+SPEC CHECKSUMS:
+  GMOpenSSL: 233a7e54afeb479e1de1b54db0a5a205f568515f
+  iProov: c596936165f56fab2e08d76e9dc94b86db2f4e8f
+  Jumio: 9b44813a55bd1a03a758dff5e058f6bf90fe1101
+
+PODFILE CHECKSUM: 3256308e21547b0ac37c043d81020d83c04fc06d
+
+COCOAPODS: 1.15.2
